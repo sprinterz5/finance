@@ -545,8 +545,8 @@ input:focus{
 		font-size: 16px;
 	}
 	.services-card{
-		width: 300px;
-		
+		width: 280px;
+		margin-right:10px;
 	}
 	.services-header{
 		font-size: 22px;
